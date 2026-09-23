@@ -241,7 +241,7 @@ function App() {
           <div className="container property-layout">
             <div className="section-intro section-intro--dark">
               <p className="eyebrow">Negócios realizados</p>
-              <h2>Histórias de confiança<br /><em>e realização.</em></h2>
+              <h2>Histórias<br />de confiança<br /><em>e realização.</em></h2>
               <p>Cada imóvel vendido representa uma negociação concluída e uma nova etapa começando.</p>
               <a className="button button--light" href="#contato">Quero encontrar o meu <ArrowIcon /></a>
             </div>
